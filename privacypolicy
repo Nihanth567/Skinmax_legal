@@ -1,1 +1,55 @@
-Privacy Policy - SkinMax
+Privacy Policy for SkinMax
+Last Updated: September 2026
+
+SkinMax ("we," "our," or "us") respects your privacy and is committed to protecting the personal data you share with us. This Privacy Policy explains how information is collected, used, and safeguarded when you use our mobile application ("SkinMax").
+
+1. Information We Collect
+A. Information Provided Directly by You
+Skin & Facial Analysis Data: Photos or live camera feeds provided to perform facial analysis. Photos processed by our AI models are analyzed in real-time to generate skin tracking metrics.
+
+Account & Preference Data: User selections, skin goals, or sign-in credentials used within the app.
+
+B. Automatically Collected Information
+Usage & Device Information: Technical data regarding your mobile device (model, operating system, unique device identifiers) and interaction metrics within the application.
+
+In-App Purchase Data: Transaction status and active subscription entitlements managed through Apple App Store and payment management tools (e.g., RevenueCat). We do not collect or store raw financial or payment card details.
+
+2. How We Use Your Information
+We utilize collected information to:
+
+Deliver, maintain, and optimize the AI facial analysis and skin tracking capabilities of SkinMax.
+
+Manage active user subscriptions and process in-app feature access.
+
+Diagnose technical issues, prevent system abuse, and maintain application security.
+
+Comply with applicable legal, platform, and regulatory obligations.
+
+3. Data Storage & Security
+We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, loss, or alteration. Facial image data submitted for scan analysis is processed solely to produce your results and is not used to train public generative models without your express consent.
+
+4. Third-Party Services
+SkinMax integrates select third-party service providers to facilitate app operations:
+
+Apple App Store Services: For application distribution, account verification, and in-app purchase processing.
+
+Analytics & Infrastructure Providers: For app telemetry, database management, and purchase state validation.
+
+These third parties access data strictly to execute operational tasks on our behalf and are bound by confidentiality standards.
+
+5. Children's Privacy
+SkinMax does not knowingly collect or solicit personal information from children under 13 years of age. If we learn that personal data from a child under 13 has been collected, we will take prompt action to delete that data from our records.
+
+6. Your Data Rights & Choices
+Depending on your jurisdiction, you may have rights regarding access to, correction of, or deletion of personal data processed by SkinMax. You can request data deletion or account removal directly through the in-app settings or by contacting support.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect operational or regulatory updates. Any changes will be published here with an updated revision date.
+
+8. Contact Us
+If you have questions or inquiries regarding this Privacy Policy, please reach out via our support channel:
+
+App: SkinMax
+
+
+Support Contact: skinmax@gmail.com
